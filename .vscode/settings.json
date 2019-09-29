@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/root/.local/share/virtualenvs/classic-cs-problems-python-ZTMkYqY_/bin/python"
+}
